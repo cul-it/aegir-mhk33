@@ -24,6 +24,7 @@ projects[johnclairmiller][download][url] = "git@github.com:cul-it/johnclairmille
 projects[johnclairmiller][type] = "theme"
 projects[jquery_update] = "2.3"
 projects[link] = "1.3"
+projects[menu_block] = "1.3"
 projects[pathauto] = "1.2"
 projects[pathologic] = "2.12"
 projects[token] = "1.5"
