@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.33"
+projects[drupal][version] = "7.34"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -10,9 +10,10 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.0.2/ckeditor_4.0.2_standard.zip"
 projects[admin_menu] = "3.0-rc4"
-projects[antiquities][download][type] = "svn"
-projects[antiquities][download][url] = "https://svn.library.cornell.edu/antiquitiestheme/trunk/theme"
-projects[antiquities][revision] = "HEAD"
+projects[antiquities][directory_name] = "antiquities"
+projects[antiquities][download][branch] = "master"
+projects[antiquities][download][type] = "git"
+projects[antiquities][download][url] = "git@github.com:cul-it/antiquities-library-cornell-edu-theme.git"
 projects[antiquities][type] = "theme"
 projects[bootstrap][version] = "3.0"
 projects[ckeditor] = "1.16"
