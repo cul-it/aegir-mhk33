@@ -10,12 +10,13 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.0.2/ckeditor_4.0.2_standard.zip"
 projects[admin_menu] = "3.0-rc4"
-projects[antiquities][download][type] = "svn"
-projects[antiquities][download][url] = "https://svn.library.cornell.edu/antiquitiestheme/trunk/theme"
-projects[antiquities][revision] = "HEAD"
-projects[antiquities][type] = "theme"
 projects[bootstrap][patch][] = "http://drupal.org/files/1844448-bootstrap-subtheme-52.patch"
 projects[bootstrap][version] = "2.2"
+projects[bootstrap_anthro][directory_name] = "bootstrap_johnreps"
+projects[bootstrap_anthro][download][branch] = "master"
+projects[bootstrap_anthro][download][type] = "git"
+projects[bootstrap_anthro][download][url] = "https://github.com/cul-it/anthrocollections-library-cornell-edu-theme"
+projects[bootstrap_anthro][type] = "theme"
 projects[bootstrap_johnreps][directory_name] = "bootstrap_johnreps"
 projects[bootstrap_johnreps][download][branch] = "master"
 projects[bootstrap_johnreps][download][type] = "git"
@@ -45,6 +46,7 @@ projects[menu_block] = "2.4"
 projects[node_export] = "3.0"
 projects[pathauto] = "1.2"
 projects[pathologic] = "2.12"
+projects[references][version] = "2.1"
 projects[simplesaml_authentication_cul][download][type] = "get"
 projects[simplesaml_authentication_cul][download][url] = "https://featureserver.library.cornell.edu/sites/featureserver.library.cornell.edu/files/fserver/simplesaml_authentication_for_cul-7.x-1.0-rc3.tar"
 projects[simplesaml_authentication_cul][location] = "https://featureserver.library.cornell.edu/fserver"
@@ -57,3 +59,17 @@ projects[views] = "3.8"
 projects[views_responsive_grid] = "1.3"
 projects[views_slideshow][version] = "3.1"
 projects[zen][version] = "5.1"
+
+
+
+
+; anthro stuff from previous make file, not sure if needed
+; libraries[jquery.ui][download][type] = "get"
+; libraries[jquery.ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.8.17.zip"
+; libraries[jquery.ui][directory_name] = "jquery.ui"
+; projects[jquery_plugin][version] = "1.0"
+
+
+
+
+
