@@ -47,8 +47,25 @@ projects[simplesaml_authentication_cul][location] = "https://featureserver.libra
 projects[simplesaml_authentication_cul][type] = "module"
 projects[simplesamlphp_auth][version] = "2.0-alpha2"
 projects[strongarm][version] = "2.0"
+; testing tb_social_feed for connect.dev; may not be needed
+projects[tb_social_feed] = "1.0-beta4"
 projects[token] = "1.5"
+; testing twitter_block for connect.dev; may not be needed
+projects[twitter_block] = "2.2"
 projects[uuid] = "1.0-alpha6"
 projects[views] = "3.8"
 projects[views_responsive_grid] = "1.3"
+; testing vimeo_link_formatter for connect.dev; may not be needed
+projects[vimeo_link_formatter] = "1.2"
+; testing youtube for connect.dev; may not be needed
+projects[youtube] = "1.3"
 projects[zen][version] = "5.1"
+
+
+
+
+
+
+
+
+
