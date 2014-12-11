@@ -73,6 +73,7 @@ projects[simplesamlphp_auth][version] = "2.0-alpha2"
 projects[strongarm][version] = "2.0"
 projects[token] = "1.5"
 projects[uuid] = "1.0-alpha6"
+projects[views][patch][] = "http://www.drupal.org/files/1815906-move-drush-12.patch"
 projects[views] = "3.8"
 projects[views_php] = "1.x-dev"
 projects[views_responsive_grid] = "1.3"
@@ -83,5 +84,3 @@ projects[zen][version] = "5.1"
 ; racker stuff not installed
 ; projects[google_cse][version] = "1.x-dev"
 ; projects[search_by_page][version] = "1.3"
-; projects[views][patch][] = "http://www.drupal.org/files/1815906-move-drush-12.patch"
-
