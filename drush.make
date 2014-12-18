@@ -60,6 +60,7 @@ projects[token] = "1.5"
 projects[twitter_block] = "2.2"
 projects[uuid] = "1.0-alpha6"
 projects[views] = "3.8"
+projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
 ; testing vimeo_link_formatter for connect.dev; may not be needed
 projects[vimeo_link_formatter] = "1.2"
