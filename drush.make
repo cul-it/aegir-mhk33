@@ -47,6 +47,11 @@ projects[simplesaml_authentication_cul][download][url] = "https://featureserver.
 projects[simplesaml_authentication_cul][location] = "https://featureserver.library.cornell.edu/fserver"
 projects[simplesaml_authentication_cul][type] = "module"
 projects[simplesamlphp_auth][version] = "2.0-alpha2"
+projects[social][directory_name] = "social"
+projects[social][download][branch] = "master"
+projects[social][download][type] = "git"
+projects[social][download][url] = "git@github.com:cul-it/connect-library-cornell-edu-theme.git"
+projects[social][type] = "theme"
 projects[strongarm][version] = "2.0"
 ; testing tb_social_feed for connect.dev; may not be needed
 projects[tb_social_feed] = "1.0-beta5"
