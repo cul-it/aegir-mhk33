@@ -5,4 +5,5 @@ artifactsandart.library.cornell.edu
 dcaps.library.cornell.edu
 kluge.library.cornell.edu
 johnclairmiller.library.cornell.edu
+signale.cornell.edu
 tarr.library.cornell.edu
