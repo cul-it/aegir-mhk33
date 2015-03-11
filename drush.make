@@ -30,8 +30,9 @@ projects[jquery_update] = "2.5"
 projects[libraries][version] = "2.2"
 projects[link] = "1.3"
 projects[linkit][version] = "2.6"
-; testing masonry module
+; testing masonry amd masonry_views module
 projects[masonry] = "2.0"
+projects[masonry_views] = "1.0"
 projects[menu_block] = "2.4"
 projects[pathauto] = "1.2"
 projects[pathologic] = "2.12"
