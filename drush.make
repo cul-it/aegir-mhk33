@@ -5,7 +5,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.35"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -31,7 +31,7 @@ projects[bootstrap][version] = "3.0"
 projects[cck][version] = "3.0-alpha3"
 projects[ckeditor] = "1.16"
 projects[content_taxonomy][version] = "1.0-beta2"
-projects[ctools][version] = "1.6"
+projects[ctools][version] = "1.7"
 projects[cu_customsearch][download][type] = "svn"
 projects[cu_customsearch][download][url] = "https://svn.library.cornell.edu/cu_customsearch/branches/drupal7/module"
 projects[cu_customsearch][revision] = "HEAD"
@@ -117,6 +117,6 @@ projects[views_accordion][version] = "1.1"
 projects[views_bootstrap][version] = "3.1"
 projects[views_bulk_operations][version] = "3.2"
 projects[views_php][version] = "1.0-alpha1"
-projects[webform][version] = "4.3"
+projects[webform][version] = "4.5"
 projects[wysiwyg][version] = "2.2"
 
