@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.35"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -23,7 +23,7 @@ projects[bootstrap_kluge][type] = "theme"
 projects[ckeditor] = "1.16"
 projects[computed_field] = "1.0"
 projects[context] = "3.6"
-projects[ctools] = "1.6"
+projects[ctools] = "1.7"
 projects[custom_breadcrumbs] = "2.0-beta1"
 projects[date] = "2.8"
 projects[devel] = "1.5"
@@ -67,7 +67,7 @@ projects[querypath] = "2.1"
 projects[randomblocks] = "1.1"
 projects[redirect] = "1.0-rc1"
 projects[references] = "2.1"
-projects[rules] = "2.8"
+projects[rules] = "2.9"
 projects[schemaorg] = "1.0-rc1"
 projects[simplesaml_authentication_cul][download][type] = "get"
 projects[simplesaml_authentication_cul][download][url] = "https://featureserver.library.cornell.edu/sites/featureserver.library.cornell.edu/files/fserver/simplesaml_authentication_for_cul-7.x-1.0-rc3.tar"
