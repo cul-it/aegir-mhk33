@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.35"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -32,7 +32,7 @@ projects[bootstrap_johnreps][download][url] = "https://github.com/cul-it/johnrep
 projects[bootstrap_johnreps][type] = "theme"
 projects[ckeditor] = "1.16"
 projects[context] = "3.6"
-projects[ctools] = "1.6"
+projects[ctools] = "1.7"
 projects[custom_breadcrumbs][version] = "1.0-alpha1"
 projects[date] = "2.8"
 projects[diff] = "3.2"
