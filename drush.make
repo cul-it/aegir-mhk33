@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.35"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -22,7 +22,7 @@ projects[bootstrap_racker][download][url] = "https://github.com/cul-it/efraimrac
 projects[bootstrap_racker][type] = "theme"
 projects[ckeditor] = "1.16"
 projects[context] = "3.6"
-projects[ctools] = "1.6"
+projects[ctools] = "1.7"
 projects[date] = "2.8"
 projects[diff] = "3.2"
 projects[google_analytics] = "2.1"
@@ -51,4 +51,4 @@ projects[views][patch][] = "http://www.drupal.org/files/1815906-move-drush-12.pa
 projects[views] = "3.10"
 projects[views_php] = "1.x-dev"
 projects[views_slideshow][version] = "3.1"
-projects[webform] = "4.4"
+projects[webform] = "4.5"
