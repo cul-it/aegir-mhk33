@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.35"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -13,7 +13,7 @@ projects[admin_menu] = "3.0-rc5"
 projects[bootstrap] = "3.0"
 projects[ckeditor] = "1.16"
 projects[context] = "3.6"
-projects[ctools] = "1.6"
+projects[ctools] = "1.7"
 projects[custom_breadcrumbs] = "2.0-beta1"
 projects[date] = "2.8"
 projects[devel] = "1.5"
@@ -49,7 +49,7 @@ projects[pathologic] = "2.12"
 projects[prepro][version] = "1.4"
 projects[redirect] = "1.0-rc1"
 projects[references] = "2.1"
-projects[rules] = "2.8"
+projects[rules] = "2.9"
 projects[signale][type] = "theme"
 projects[signale][download][type] = "git"
 projects[signale][download][url] = "https://github.com/cul-it/signale-cornell-edu-theme"
