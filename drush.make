@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.35"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -22,7 +22,7 @@ projects[artifactsandart][download][url] = "git@github.com:cul-it/artifactsandar
 projects[artifactsandart][type] = "theme"
 projects[bootstrap] = "3.0"
 projects[ckeditor] = "1.16"
-projects[ctools] = "1.6"
+projects[ctools] = "1.7"
 projects[custom_breadcrumbs] = "2.0-beta1"
 projects[date] = "2.8"
 projects[diff] = "3.2"
