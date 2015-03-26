@@ -118,6 +118,6 @@ projects[views_accordion][version] = "1.1"
 projects[views_bootstrap][version] = "3.1"
 projects[views_bulk_operations][version] = "3.2"
 projects[views_php][version] = "1.0-alpha1"
-projects[webform][version] = "4.7"
+projects[webform][version] = "4.5"
 projects[wysiwyg][version] = "2.2"
 
