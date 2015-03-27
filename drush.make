@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.35"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -15,7 +15,7 @@ libraries[masonry][download][url] = "http://desandro.github.io/masonry/jquery.ma
 projects[admin_menu] = "3.0-rc5"
 projects[bootstrap][version] = "3.0"
 projects[ckeditor] = "1.16"
-projects[ctools] = "1.6"
+projects[ctools] = "1.7"
 projects[date] = "2.8"
 projects[devel] = "1.5"
 projects[diff] = "3.2"
@@ -37,7 +37,7 @@ projects[masonry_views] = "1.0"
 projects[menu_block] = "2.4"
 projects[pathauto] = "1.2"
 projects[pathologic] = "2.12"
-projects[rules] = "2.8"
+projects[rules] = "2.9"
 projects[simplesaml_authentication_cul][download][type] = "get"
 projects[simplesaml_authentication_cul][download][url] = "https://featureserver.library.cornell.edu/sites/featureserver.library.cornell.edu/files/fserver/simplesaml_authentication_for_cul-7.x-1.0-rc3.tar"
 projects[simplesaml_authentication_cul][location] = "https://featureserver.library.cornell.edu/fserver"
