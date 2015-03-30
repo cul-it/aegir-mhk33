@@ -12,7 +12,7 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[masonry][directory_name] = "masonry"
 libraries[masonry][download][type] = "get"
 libraries[masonry][download][url] = "http://desandro.github.io/masonry/jquery.masonry.min.js"
-libraries[views_infinite_scroll][directory_name] = "../modules/views_infinite_scroll/js"
+libraries[views_infinite_scroll][destination] = "../../modules/views_infinite_scroll/js"
 libraries[views_infinite_scroll][download][type] = "get"
 libraries[views_infinite_scroll][download][url] = "http://jquery-autopager.googlecode.com/files/jquery.autopager-1.0.0.js"
 projects[admin_menu] = "3.0-rc5"
@@ -34,7 +34,6 @@ projects[jquery_update] = "2.5"
 projects[libraries][version] = "2.2"
 projects[link] = "1.3"
 projects[linkit][version] = "2.6"
-; testing masonry amd masonry_views module
 projects[masonry] = "2.0"
 projects[masonry_views] = "1.0"
 projects[menu_block] = "2.4"
@@ -52,19 +51,14 @@ projects[social][download][type] = "git"
 projects[social][download][url] = "git@github.com:cul-it/connect-library-cornell-edu-theme.git"
 projects[social][type] = "theme"
 projects[strongarm][version] = "2.0"
-; testing tb_social_feed for connect.dev; may not be needed
 projects[tb_social_feed] = "1.0-beta6"
 projects[token] = "1.6"
-; testing twitter_block for connect.dev; may not be needed
 projects[twitter_block] = "2.2"
 projects[views] = "3.10"
-; testing this out
 projects[views_infinite_scroll] = "1.1"
 projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
-; testing vimeo_link_formatter for connect.dev; may not be needed
 projects[vimeo_link_formatter] = "1.2"
-; testing youtube for connect.dev; may not be needed
 projects[youtube] = "1.5"
 
 
