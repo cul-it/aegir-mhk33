@@ -55,6 +55,8 @@ projects[token] = "1.6"
 ; testing twitter_block for connect.dev; may not be needed
 projects[twitter_block] = "2.2"
 projects[views] = "3.10"
+; testing this out
+projects[views_infinite_scroll] = "1.1"
 projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
 ; testing vimeo_link_formatter for connect.dev; may not be needed
