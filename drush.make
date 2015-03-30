@@ -12,9 +12,11 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[masonry][directory_name] = "masonry"
 libraries[masonry][download][type] = "get"
 libraries[masonry][download][url] = "http://desandro.github.io/masonry/jquery.masonry.min.js"
-libraries[views_infinite_scroll][destination] = "../../modules/views_infinite_scroll/js"
+libraries[views_infinite_scroll][destination] = "../modules/views_infinite_scroll"
+libraries[views_infinite_scroll][directory_name] = "js"
 libraries[views_infinite_scroll][download][type] = "get"
 libraries[views_infinite_scroll][download][url] = "http://jquery-autopager.googlecode.com/files/jquery.autopager-1.0.0.js"
+libraries[views_infinite_scroll][name] = "jquery.autopager-1.0.0.js"
 projects[admin_menu] = "3.0-rc5"
 projects[bootstrap][version] = "3.0"
 projects[ckeditor] = "1.16"
@@ -60,7 +62,6 @@ projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
 projects[vimeo_link_formatter] = "1.2"
 projects[youtube] = "1.5"
-
 
 
 
