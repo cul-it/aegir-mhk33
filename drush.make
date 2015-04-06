@@ -2,6 +2,7 @@ core = 7.x
 api = 2
 projects[drupal][version] = "7.35"
 
+projects[drupal][patch][] = "https://www.drupal.org/files/issues/1003692-50-54-interdiff.txt"
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
 libraries[bootstrap][download][type] = "get"
@@ -24,7 +25,6 @@ projects[ctools] = "1.7"
 projects[date] = "2.8"
 projects[devel] = "1.5"
 projects[diff] = "3.2"
-projects[drupal][patch][] = "https://www.drupal.org/files/issues/1003692-50-54-interdiff.txt"
 projects[entity] = "1.6"
 projects[google_analytics] = "2.1"
 projects[features][version] = "2.4"
