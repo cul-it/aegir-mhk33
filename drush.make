@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.35"
+projects[drupal][version] = "7.36"
 
 projects[drupal][patch][] = "https://www.drupal.org/files/issues/1003692-50-54-interdiff.txt"
 libraries[bootstrap][destination] = themes/bootstrap
@@ -27,7 +27,7 @@ projects[devel] = "1.5"
 projects[diff] = "3.2"
 projects[entity] = "1.6"
 projects[google_analytics] = "2.1"
-projects[features][version] = "2.4"
+projects[features][version] = "2.5"
 projects[features_extra][version] = "1.0-beta1"
 projects[feeds] = "2.0-alpha8"
 projects[job_scheduler] = "2.0-alpha3"
@@ -57,7 +57,7 @@ projects[strongarm][version] = "2.0"
 projects[tb_social_feed] = "1.0-beta6"
 projects[token] = "1.6"
 projects[twitter_block] = "2.2"
-projects[views] = "3.10"
+projects[views] = "3.11"
 projects[views_infinite_scroll] = "1.1"
 projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
