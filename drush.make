@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.35"
+projects[drupal][version] = "7.36"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -63,7 +63,7 @@ projects[simplesamlphp_auth] = "2.0-alpha2"
 projects[strongarm] = "2.0"
 projects[token] = "1.6"
 projects[transliteration] = "3.2"
-projects[views] = "3.10"
+projects[views] = "3.11"
 projects[views_bulk_operations] = "3.2"
 projects[views_php] = "1.0-alpha1"
 projects[views_slideshow] = "3.1"
