@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.35"
+projects[drupal][version] = "7.36"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -34,7 +34,7 @@ projects[entity_translation][patch][] = "http://drupal.org/files/et-beta1_upgrad
 projects[entityreference] = "1.1"
 projects[eva] = "1.2"
 projects[google_analytics] = "2.1"
-projects[features] = "2.4"
+projects[features] = "2.5"
 projects[features_extra] = "1.0-beta1"
 projects[feeds] = "2.0-alpha8"
 projects[feeds_querypath_parser] = "1.0-beta1"
@@ -81,7 +81,7 @@ projects[token] = "1.6"
 projects[translation_table] = "1.0-beta1"
 projects[transliteration] = "3.2"
 projects[variable] = "2.5"
-projects[views] = "3.10"
+projects[views] = "3.11"
 projects[views_bulk_operations] = "3.2"
 projects[views_data_export] = "3.0-beta8"
 projects[views_php] = "1.0-alpha1"
