@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.35"
+projects[drupal][version] = "7.36"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -28,7 +28,7 @@ projects[date] = "2.8"
 projects[diff] = "3.2"
 projects[entity] = "1.6"
 projects[google_analytics] = "2.1"
-projects[features] = "2.4"
+projects[features] = "2.5"
 projects[features_extra] = "1.0-beta1"
 projects[imce] = "1.9"
 projects[imce_wysiwyg] = "1.0"
@@ -60,7 +60,7 @@ projects[tarr][download][type] = "git"
 projects[tarr][download][url] = "git@github.com:cul-it/tarr-library-cornell-edu-theme.git"
 projects[tarr][type] = "theme"
 projects[token] = "1.6"
-projects[views] = "3.10"
+projects[views] = "3.11"
 projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
 projects[views_slideshow] = "3.1"
