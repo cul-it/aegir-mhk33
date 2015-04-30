@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.35"
+projects[drupal][version] = "7.36"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -26,7 +26,7 @@ projects[ctools] = "1.7"
 projects[date] = "2.8"
 projects[diff] = "3.2"
 projects[google_analytics] = "2.1"
-projects[features][version] = "2.4"
+projects[features][version] = "2.5"
 projects[features_extra][version] = "1.0-beta1"
 projects[feeds] = "2.0-alpha8"
 projects[job_scheduler] = "2.0-alpha3"
@@ -48,7 +48,7 @@ projects[simplesamlphp_auth][version] = "2.0-alpha2"
 projects[strongarm][version] = "2.0"
 projects[token] = "1.6"
 projects[views][patch][] = "http://www.drupal.org/files/1815906-move-drush-12.patch"
-projects[views] = "3.10"
+projects[views] = "3.11"
 projects[views_php] = "1.x-dev"
 projects[views_slideshow][version] = "3.1"
-projects[webform] = "4.5"
+projects[webform] = "4.8"
