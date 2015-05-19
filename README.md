@@ -4,3 +4,5 @@ antiquities.library.cornell.edu
 artifactsandart.library.cornell.edu
 johnclairmiller.library.cornell.edu
 tarr.library.cornell.edu
+
+base.dev.library.cornell.edu

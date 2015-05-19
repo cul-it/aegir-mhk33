@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.36"
+projects[drupal][version] = "7.37"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -45,6 +45,11 @@ projects[linkit] = "3.3"
 projects[media] = "1.4"
 projects[menu_block] = "2.5"
 projects[mollom] = "2.13"
+projects[olinuris][directory_name] = "olinuris"
+projects[olinuris][download][branch] = "master"
+projects[olinuris][download][type] = "git"
+projects[olinuris][download][url] = "git@github.com:cul-it/base-library-cornell-edu-theme.git"
+projects[olinuris][type] = "theme"
 projects[pathauto] = "1.2"
 projects[pathologic] = "2.12"
 projects[redirect] = "1.0-rc1"
