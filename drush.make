@@ -2,10 +2,15 @@ core = 7.x
 api = 2
 projects[drupal][version] = "7.37"
 
+libraries[bootstrap][destination] = themes/bootstrap
+libraries[bootstrap][directory_name] = "bootstrap"
+libraries[bootstrap][download][type] = "get"
+libraries[bootstrap][download][url] = "https://github.com/twbs/bootstrap/archive/v3.2.0.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.0.2/ckeditor_4.0.2_standard.zip"
 projects[admin_menu] = "3.0-rc5"
+projects[bootstrap] = "3.0"
 projects[ckeditor] = "1.16"
 projects[context] = "3.6"
 projects[ctools] = "1.7"
