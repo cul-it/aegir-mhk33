@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.36"
+projects[drupal][version] = "7.38"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -30,7 +30,7 @@ projects[field_group] = "1.4"
 projects[imce] = "1.9"
 projects[jcarousel][version] = "2.6"
 projects[job_scheduler] = "2.0-alpha3"
-projects[jquery_update] = "2.5"
+projects[jquery_update] = "2.6"
 projects[js_injector] = "2.1"
 projects[kalturacuepoints][download][type] = "svn"
 projects[kalturacuepoints][download][url] = "https://svn.library.cornell.edu/kalturacuepoints/trunk/module"
@@ -43,7 +43,7 @@ projects[linkit] = "3.3"
 projects[mass_contact] = "1.0"
 projects[mail_edit][version] = "1.0"
 projects[media] = "1.4"
-projects[menu_block] = "2.5"
+projects[menu_block] = "2.6"
 projects[pathauto] = "1.2"
 projects[pathologic] = "2.12"
 projects[prepro][version] = "1.4"
