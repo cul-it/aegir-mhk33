@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.37"
+projects[drupal][version] = "7.38"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -32,7 +32,7 @@ projects[entity] = "1.6"
 projects[google_analytics] = "2.1"
 projects[features] = "2.5"
 projects[features_extra] = "1.0-beta1"
-projects[feeds] = "2.0-alpha8"
+projects[feeds] = "2.0-alpha9"
 projects[job_scheduler] = "2.0-alpha3"
 projects[jquery_plugin] = "1.0"
 projects[jquery_update] = "3.0-alpha2"
