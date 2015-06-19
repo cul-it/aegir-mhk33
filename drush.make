@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.36"
+projects[drupal][version] = "7.38"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -28,11 +28,11 @@ projects[entity] = "1.6"
 projects[google_analytics] = "2.1"
 projects[features][version] = "2.5"
 projects[features_extra][version] = "1.0-beta1"
-projects[feeds] = "2.0-alpha8"
+projects[feeds] = "2.0-alpha9"
 projects[job_scheduler] = "2.0-alpha3"
 ; jqmulti for masonry module
 projects[jqmulti] = "1.0"
-projects[jquery_update] = "2.5"
+projects[jquery_update] = "2.6"
 projects[libraries][version] = "2.2"
 projects[link] = "1.3"
 projects[linkit][version] = "2.6"
@@ -61,7 +61,7 @@ projects[views_infinite_scroll] = "1.1"
 projects[views_php] = "1.0-alpha1"
 projects[views_responsive_grid] = "1.3"
 projects[vimeo_link_formatter] = "1.2"
-projects[youtube] = "1.5"
+projects[youtube] = "1.6"
 
 
 
