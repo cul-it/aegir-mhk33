@@ -1,6 +1,8 @@
+;; leave jcarousel at 2.6 for now; 2.7 breaks the ui
+
 core = 7.x
 api = 2
-projects[drupal][version] = "7.38"
+projects[drupal][version] = "7.39"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -13,7 +15,7 @@ projects[admin_menu] = "3.0-rc5"
 projects[bootstrap] = "3.0"
 projects[ckeditor] = "1.16"
 projects[context] = "3.6"
-projects[ctools] = "1.7"
+projects[ctools] = "1.9"
 projects[custom_breadcrumbs] = "2.0-beta1"
 projects[date] = "2.8"
 projects[devel] = "1.5"
@@ -39,15 +41,15 @@ projects[kalturacuepoints][subdir] = "custom"
 projects[kalturacuepoints][type] = "module"
 projects[libraries] = "2.2"
 projects[link] = "1.3"
-projects[linkit] = "3.3"
+projects[linkit] = "3.4"
 projects[mass_contact] = "1.0"
-projects[mail_edit][version] = "1.0"
+projects[mail_edit][version] = "1.1"
 projects[media] = "1.4"
-projects[menu_block] = "2.6"
+projects[menu_block] = "2.7"
 projects[pathauto] = "1.2"
 projects[pathologic] = "2.12"
 projects[prepro][version] = "1.4"
-projects[redirect] = "1.0-rc1"
+projects[redirect] = "1.0-rc3"
 projects[references] = "2.1"
 projects[rules] = "2.9"
 projects[signale][type] = "theme"
