@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.40"
+projects[drupal][version] = "7.41"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -53,7 +53,7 @@ projects[johnclairmiller][download][type] = "git"
 projects[johnclairmiller][download][url] = "git@github.com:cul-it/johnclairmiller-library-cornell-edu-theme.git"
 projects[johnclairmiller][type] = "theme"
 projects[jquery_plugin] = "1.0"
-projects[jquery_update] = "2.6"
+projects[jquery_update] = "2.7"
 projects[js_injector] = "2.1"
 projects[libraries] = "2.2"
 projects[link] = "1.3"
