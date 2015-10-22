@@ -2,7 +2,7 @@
 
 core = 7.x
 api = 2
-projects[drupal][version] = "7.39"
+projects[drupal][version] = "7.41"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -24,14 +24,15 @@ projects[entity] = "1.6"
 projects[entityreference] = "1.1"
 projects[google_analytics] = "2.1"
 projects[google_books] = "1.0"
-projects[features] = "2.6"
+projects[features] = "2.7"
 projects[features_extra] = "1.0"
 projects[feeds] = "2.0-alpha8"
 projects[field_group] = "1.4"
 projects[imce] = "1.9"
+;; Do not update jcarousel until you have to troubleshoot the upgrade! It breaks the UI. 
 projects[jcarousel][version] = "2.6"
 projects[job_scheduler] = "2.0-alpha3"
-projects[jquery_update] = "2.6"
+projects[jquery_update] = "2.7"
 projects[js_injector] = "2.1"
 projects[kalturacuepoints][download][type] = "svn"
 projects[kalturacuepoints][download][url] = "https://svn.library.cornell.edu/kalturacuepoints/trunk/module"
