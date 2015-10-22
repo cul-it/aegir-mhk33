@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-projects[drupal][version] = "7.39"
+projects[drupal][version] = "7.41"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -31,14 +31,14 @@ projects[devel] = "1.5"
 projects[diff] = "3.2"
 projects[entity] = "1.6"
 projects[google_analytics] = "2.1"
-projects[features] = "2.6"
+projects[features] = "2.7"
 projects[features_extra] = "1.0"
 projects[feeds] = "2.0-beta1"
 projects[field_group] = "1.4"
 projects[field_group_multiple] = "1.0-beta3"
 projects[job_scheduler] = "2.0-alpha3"
 projects[jquery_plugin] = "1.0"
-projects[jquery_update] = "3.0-alpha2"
+projects[jquery_update] = "3.0-alpha3"
 projects[js_injector] = "2.1"
 projects[libraries] = "2.2"
 projects[link] = "1.3"
