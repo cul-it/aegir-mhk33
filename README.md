@@ -4,10 +4,10 @@ ac.library.cornell.edu
 anthrocollections.library.cornell.edu
 antiquities.library.cornell.edu
 artifactsandart.library.cornell.edu
-dhcollaborative.library.cornell.edu
-ghali.library.cornell.edu (bs2)
+ghali.library.cornell.edu
 johnclairmiller.library.cornell.edu
-johnreps.library.cornell.edu (bs2)
+johnreps.library.cornell.edu
 tarr.library.cornell.edu
 
+digitalhumanities.dev.library.cornell.edu
 base.dev.library.cornell.edu
