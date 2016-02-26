@@ -7,7 +7,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.41"
+projects[drupal][version] = "7.43"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -28,7 +28,7 @@ projects[ares][download][type] = "svn"
 projects[ares][download][url] = "https://svn.library.cornell.edu/ares/branches/drupal7/module"
 projects[ares][revision] = "HEAD"
 projects[ares][type] = "module"
-projects[blockreference][version] = "2.2"
+projects[blockreference][version] = "2.3"
 projects[bootstrap][version] = "3.4"
 projects[cacheexclude][version] = "2.3"
 projects[cck][version] = "3.0-alpha3"
@@ -63,7 +63,7 @@ projects[entity][version] = "1.6"
 projects[extlink][version] = "1.18"
 projects[features][version] =  "2.7"
 projects[features_extra] = "1.0"
-projects[feeds] = "2.0-beta1"
+projects[feeds] = "2.0-beta2"
 projects[feeds_ex] = "1.0-beta2"
 projects[feeds_tamper] = "1.1"
 projects[fontawesome] = "2.5"
