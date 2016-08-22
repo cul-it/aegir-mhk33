@@ -2,7 +2,7 @@
 
 core = 7.x
 api = 2
-projects[drupal][version] = "7.44"
+projects[drupal][version] = "7.50"
 
 libraries[bootstrap][destination] = themes/bootstrap
 libraries[bootstrap][directory_name] = "bootstrap"
@@ -15,14 +15,13 @@ projects[admin_menu] = "3.0-rc5"
 projects[bootstrap] = "3.0"
 projects[ckeditor] = "1.17"
 projects[context] = "3.7"
-projects[ctools] = "1.9"
+projects[ctools] = "1.10"
 projects[custom_breadcrumbs] = "2.0-beta1"
 projects[date] = "2.9"
 projects[devel] = "1.5"
 projects[diff] = "3.2"
 projects[entity] = "1.7"
 projects[entityreference] = "1.1"
-projects[google_analytics] = "2.2"
 projects[google_books] = "1.0"
 projects[features] = "2.10"
 projects[features_extra] = "1.0"
